@@ -1,8 +1,8 @@
 /* Base Styles */
 body {
-  color: royalblue;
+  color: #ffffff;
   text-align: center;
-  background: linear-gradient(135deg, #4c1d95 0%, #7c3aed 35%, #f472b6 100%);
+  background: #000000;
   font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
