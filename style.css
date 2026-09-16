@@ -157,3 +157,28 @@ footer {
   margin-top: 48px;
   padding: 24px 16px 40px;
 }
+
+.site-footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  padding-top: 24px;
+}
+
+.footer-content {
+  margin-bottom: 12px;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  font-size: 0.95rem;
+}
+
+.social-links a {
+  color: #f5d0fe;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+}
