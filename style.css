@@ -2,7 +2,7 @@
 body {
   color: royalblue;
   text-align: center;
-  background-color: purple;
+  background: linear-gradient(135deg, #4c1d95 0%, #7c3aed 35%, #f472b6 100%);
   font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
